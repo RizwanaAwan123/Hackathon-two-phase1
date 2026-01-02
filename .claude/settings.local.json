@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add .gitignore README.md src/ specs/ history/ .specify/ .claude/ CLAUDE.md)"
+    ]
+  }
+}
